@@ -17,3 +17,4 @@ while (true)
     Thread.Sleep(100);
     i++;
 }
+WriteLine("i'm the dumbest person on the planet...");
