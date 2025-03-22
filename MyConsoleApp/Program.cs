@@ -18,3 +18,5 @@ while (true)
     i++;
 }
 WriteLine("i'm the dumbest person on the planet...");
+//I'm gonna hope this code have been saved properly cause i have no clue what is up with all of this.
+//h 
